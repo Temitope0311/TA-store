@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Esprit Ruffle Shirt",
+    "category": "women",
+    "image": "./media/whitegirl.jpeg",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "name": "TA supply",
+    "category": "women",
+    "image": "./media/herschel.jpeg",
+    "price": 39.99
+  },
+  {
+    "id": 3,
+    "name": "Only Check Trouser",
+    "category": "men",
+    "image": "./media/checkshirtboy.jpeg",
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "name": "Classic Trench Coat",
+    "category": "women",
+    "image": "./media/coatgirl.jpeg",
+    "price": 89.99
+  },
+  {
+    "id": 5,
+    "name": "Front Pocket Jumper",
+    "category": "women",
+    "image": "./media/jackgirl.jpeg",
+    "price": 89.99
+  },
+  {
+    "id": 6,
+    "name": "Vintage Inspired Classic",
+    "category": "watches",
+    "image": "./media/watch2.jpeg",
+    "price": 89.99
+  },
+  {
+    "id": 7,
+    "name": "Shirt in Stretch Cotton",
+    "category": "women",
+    "image": "./media/suitgirl.jpeg",
+    "price": 89.99
+  },
+  {
+    "id": 8,
+    "name": "Pieces Metallic Printed",
+    "category": "women",
+    "image": "./media/pinhahagirl.jpeg",
+    "price": 89.99
+  },
+  {
+    "id": 9,
+    "name": "Converse All Star Hi Plimsolls",
+    "category": "shoes",
+    "image": "./media/allstar",
+    "price": 89.99
+  },
+    {
+    "id": 10,
+    "name": "Femme T-Shirt In Stripe",
+    "category": "women",
+    "image": "./media/blackbasic.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 11,
+    "name": "TA supply",
+    "category": "men",
+    "image": "./media/shirtman.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 12,
+    "name": "Herschel supply",
+    "category": "men",
+    "image": "./media/belt.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 13,
+    "name": "T-Shirt with Sleeve",
+    "category": "women",
+    "image": "./media/whitestomavch.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 14,
+    "name": "Pretty Little Thing",
+    "category": "women",
+    "image": "./media/blackrosetop.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 15,
+    "name": "Mini Silver Mesh Watch",
+    "category": "watches",
+    "image": "./media/watch.jpeg",
+    "price": 89.99
+  },
+    {
+    "id": 16,
+    "name": "Square Neck Back",
+    "category": "women",
+    "image": "./media/squareneck.jpeg",
+    "price": 89.99
+  }
+]

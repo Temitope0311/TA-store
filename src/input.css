@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-thick {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.carousel-slide{
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out;
+}
+
+.carousel-slide.active {
+  opacity: 1;
+}
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-weight: 800;
+}
